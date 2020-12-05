@@ -1,6 +1,6 @@
-# Problems - Toy Robot
+# Toy Robot
 
-* Modify `robot.py` to solve the problem as stated in the topic content.
+* Toy robot is a program desgined to receive user input for movement of the robot suchas forward,back,right,left.
 * You can run the program using the instructions in *To Run* below.
 * You can test technical correctness by running the unit tests as in the section *To Test* below.
 
